@@ -36,5 +36,3 @@ This code uses the [botkit](https://github.com/howdyai/botkit) npm module by the
 
 See the [LICENSE](LICENSE.md) file (MIT).
 
-Update
-
